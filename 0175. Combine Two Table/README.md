@@ -10,7 +10,6 @@ tags:
 
 # [175. Combine Two Tables (EASY)](https://leetcode.com/problems/combine-two-tables)
 
-[中文文档](/solution/0100-0199/0175.Combine%20Two%20Tables/README.md)
 
 ## Description
 
