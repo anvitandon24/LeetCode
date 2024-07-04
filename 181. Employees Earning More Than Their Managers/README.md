@@ -1,3 +1,4 @@
+# [181. Employee Earning more than Manager (EASY)](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/?)
 The Employee table holds all employees including their managers. Every employee has an Id, and there is also a column for the manager Id.
 
 # Employee Table
